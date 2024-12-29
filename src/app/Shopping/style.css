@@ -1,0 +1,155 @@
+.container-1 {
+  position: relative;
+  width: 100%;
+  height: 750px;
+  background-color: #F9F9F9;
+  color: #000000;
+}
+
+.container-1 .sub-container-1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding: 40px 80px;
+}
+
+.container-1 .sub-container-1 .heading {
+  font-size: 42px;
+  font-weight: bold;
+}
+
+.container-1 .sub-container-1 .PQT ul {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.container-1 .sub-container-1 .section-1 {
+  width: 100%;
+  background-color: #F9F9F9;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0px;
+}
+
+.container-1 .sub-container-1 .section-1 .paragraph-1 {
+  display: flex;
+  align-items: center;
+}
+
+.container-1 .sub-container-1 .section-1 .paragraph-1 .right-side {
+  margin-left: 25px;
+}
+
+.container-1 .sub-container-1 .section-1 .paragraph-1 .right-side h1 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.container-1 .sub-container-1 .section-1 .paragraph-1 .right-side .one {
+    font-size: 14px;
+}
+
+.container-1 .sub-container-1 .section-1 .paragraph-1 .right-side .two {
+    font-size: 20px;
+}
+
+.container-1 .sub-container-1 .section-1 .paragraph-2 {
+    font-size: 20px;
+}
+
+.container-1 .sub-container-1 .section-1 .paragraph-3 {
+    font-size: 20px;
+}
+
+.container-1 .sub-container-1 .section-2 {
+  width: 100%;
+  background-color: #F9F9F9;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0px;
+}
+
+.container-1 .sub-container-1 .section-2 .paragraph-1 {
+  display: flex;
+  align-items: center;
+}
+
+.container-1 .sub-container-1 .section-2 .paragraph-1 .right-side {
+  margin-left: 25px;
+}
+
+.container-1 .sub-container-1 .section-2 .paragraph-1 .right-side h1 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.container-1 .sub-container-1 .section-2 .paragraph-1 .right-side .one {
+    font-size: 14px;
+}
+
+.container-1 .sub-container-1 .section-2 .paragraph-1 .right-side .two {
+    font-size: 20px;
+}
+
+.container-1 .sub-container-1 .section-2 .paragraph-2 {
+    font-size: 20px;
+}
+
+.container-1 .sub-container-1 .section-2 .paragraph-3 {
+    font-size: 20px;
+}
+
+.container-1 .sub-container-1 .section-1 img {
+  width: 150px;
+  height: 150px;
+}
+
+.container-1 .sub-container-1 .section-2 img {
+  width: 150px;
+  height: 150px;
+}
+
+.container-1 .sub-container-1 .section-3 {
+  background-color: #F9F9F9;
+  margin: 30px 0px;
+}
+
+.container-1 .sub-container-1 .section-3 .paragraph-right {
+  text-align: right;
+}
+
+.container-1 .sub-container-1 .section-3 .paragraph-right .one {
+  display: flex;
+  justify-content: end;
+  font-size: 22px;
+  margin: 10px 0px;
+}
+
+.container-1 .sub-container-1 .section-3 .paragraph-right .one .heading-1 {
+    margin-right: 15px;
+    font-weight: 400;
+    color: #4E4D93;
+}
+
+.container-1 .sub-container-1 .section-3 .paragraph-right .two {
+    margin: 10px 0px;
+    font-size: 15px;
+}
+
+.container-1 .sub-container-1 .section-3 .paragraph-right .three button {
+    background-color: #2A254B;
+    color: #fff;
+    width: 175px;
+    height: 50px;
+    margin: 10px 0px;
+}
+
+.container-1 .sub-container-1 .section-3 .paragraph-right .three button:hover {
+    background-color: Light Grey;
+    transform: scale(1.05, 1.05);
+    transition: all 0.3s ease;
+}

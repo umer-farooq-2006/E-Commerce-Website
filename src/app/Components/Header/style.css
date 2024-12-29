@@ -1,0 +1,21 @@
+.header {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-list {
+    position: absolute;
+    display: flex;
+}
+
+.nav-list li {
+    margin: 0px 15px;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(122, 122, 122);
+    cursor: pointer;
+}
